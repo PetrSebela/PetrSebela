@@ -1,6 +1,7 @@
-## Hi there 👋
+# Hi there 👋
 My name is Petr and I`m a collage student with passion for science and technology
-# 🧰 Languages and Tools
+
+# Languages and Tools 🧰
 
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 <img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
@@ -17,8 +18,13 @@ My name is Petr and I`m a collage student with passion for science and technolog
 <br>
 <br>
 
-# Important links
+# Important links 🔗
 - [My CV](PetrSebelaCV.pdf)
+
+
+
+# How to reach me 📞
+- email - [petr.sebela.it@gmail.com](mailto:petr.sebela.it@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/petr-%C5%A1ebela/)
 
 <!--
